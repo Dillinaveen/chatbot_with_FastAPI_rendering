@@ -1,0 +1,41 @@
+2025-11-05 11:20:23,264 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-11-05 13:09:53,535 - INFO - User connected: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImV4cCI6MTc2MjMzMDE3MX0.OpR26syrbP7lfCH-j3RvSCnM-lxqbb02TM3pmo1Gq5Q
+2025-11-05 13:10:10,901 - INFO - User said: hi how are you
+
+2025-11-05 13:10:25,865 - INFO - Bot replied:  I'm doing well. How are you? What do you like to do in your free time?
+2025-11-05 13:11:46,805 - INFO - User said: what is datascience
+
+2025-11-05 13:12:00,343 - INFO - Bot replied:  Data Science is a branch of mathematics that deals with computing.
+2025-11-05 13:39:13,924 - INFO - User said: What is AI?
+  
+2025-11-05 13:39:36,398 - INFO - Bot replied:  It's an abstract algorithm that is used to solve complex problems.
+2025-11-05 13:44:32,102 - INFO - User disconnected
+2025-11-05 13:46:25,965 - INFO - User connected: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImV4cCI6MTc2MjMzMjM2MH0.eSXdfkcpq62vfIjxso_YiGwgTPxLZ-TN3JtwjqccyxY
+2025-11-05 15:07:33,476 - INFO - User disconnected
+2025-11-05 15:49:35,562 - INFO - verify_token took 0.0000seconds
+2025-11-05 15:49:55,690 - INFO - verify_token took 0.0000seconds
+2025-11-05 15:49:55,692 - INFO - chat took 0.0000seconds
+2025-11-05 15:54:45,462 - INFO - verify_token took 0.0040seconds
+2025-11-05 15:55:13,771 - INFO - generate_response took 28.3019seconds
+2025-11-05 15:55:13,780 - INFO - chat took 28.3129seconds
+2025-11-05 16:09:32,325 - INFO - verify_token took 0.0278seconds
+2025-11-05 16:09:32,353 - INFO - User connected: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImV4cCI6MTc2MjM0MDA1Nn0.DOk0eR7LAlwtYooA9Y23lx_1Zg1Ye5ruAK7EbPX3HVI
+2025-11-05 16:09:54,708 - INFO - User said: what is encyclopedia?
+
+
+2025-11-05 16:10:18,637 - INFO - generate_response took 23.9216seconds
+2025-11-05 16:10:18,647 - INFO - Bot replied:  It is a collection of books, magazines, newspapers, and other information.
+2025-11-05 16:15:32,732 - INFO - User disconnected
+2025-11-05 16:27:47,180 - INFO - verify_token took 0.0070seconds
+2025-11-05 16:28:15,418 - INFO - generate_response took 28.2177seconds
+2025-11-05 16:28:15,430 - INFO - chat took 28.2327seconds
+2025-11-05 16:28:46,993 - INFO - verify_token took 0.0305seconds
+2025-11-05 16:28:46,998 - INFO - User connected: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImV4cCI6MTc2MjM0MjA0Nn0.oU7K9RodO94iCaNdrp12Mkrcx3YqzvuLLP1fFU_ej_w
+2025-11-05 16:28:55,140 - INFO - User said: what is encyclopedia?
+
+
+2025-11-05 16:28:55,141 - INFO - receive_text took 8.1421
+2025-11-05 16:29:15,113 - INFO - generate_response took 19.9598seconds
+2025-11-05 16:29:15,136 - INFO - Bot replied:  It is a collection of books, magazines, newspapers, and other information.
+2025-11-05 16:29:15,137 - INFO - generate_response took 19.9934
+2025-11-05 16:29:15,182 - INFO - send_texttook 0.0441

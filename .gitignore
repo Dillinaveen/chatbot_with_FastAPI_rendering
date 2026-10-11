@@ -1,0 +1,25 @@
+
+# Python virtual environments
+chatbot/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# IDE and generated files
+.vscode/
+.pytest_cache/
+chatbot/Lib/
+chatbot/Library/
+chatbot/Scripts/
+chatbot/Include/
+chatbot/conda-meta/
+__pycache__/
+*.pyc
+.env
